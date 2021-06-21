@@ -3,4 +3,4 @@
 Assignments for the course UE17CS333 (PESU).
 
 1. Assignment 1 : https://github.com/kirthikagurumurthy/NLP-UE17CS333-Assignments/blob/master/Assignment%201/AMJ%20Assignment1.pdf
-2. Assignment 2 : 
+2. Assignment 2 : https://github.com/kirthikagurumurthy/NLP-UE17CS333-Assignments/blob/master/Assignment%202/AMJ_Assignment%202.pdf 
